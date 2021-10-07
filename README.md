@@ -1,3 +1,5 @@
+A minimal reproduction of trying to use Framer Handshake with Storybook
+
 1. clone repo
 2. run `yarn`
 3. run `yarn storybook`
